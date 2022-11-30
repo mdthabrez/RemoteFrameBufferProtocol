@@ -1,2 +1,0 @@
-# RemoteFrameBufferProtocol
-Remote FrameBuffer Protocol
